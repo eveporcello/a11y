@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="focus.js" type="text/javascript"></script>
+<title>Getting Focused</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div>
+  <ul class="links">
+    <li><a href="#main">Main content</a></li>
+    <li><a href="#footer">Footer content</a></li>
+  </ul>
+  <header>
+  	<h1>Grocery List</h1>
+  </header>
+  <main id="main" tabindex="-1">
+  	<h2>Items</h2>
+  	<ul class="list">
+  		<li>
+  			Salmon <button class="delete" aria-label="Delete Item 1"></button>
+  		</li>
+  		<li>
+  			Ginger <button class="delete" aria-label="Delete Item 2"></button>
+  		</li>
+  		<li>
+  			Garlic <button class="delete" aria-label="Delete Item 3"></button>
+  		</li>
+  	</ul>
+  </main>
+  <footer id="footer" tabindex="-1">
+	  <p>&copy; List Company</p>
+  </footer>
+</div>
+</body>
+</html>
