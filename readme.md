@@ -7,7 +7,7 @@ Please feel free to contact the instructor [Eve Porcello](eve@moonhighway.com) w
 
 ## Useful Links
 
-* [Section 508](www.section508.gov)
+* [Section 508](http://www.section508.gov)
 * [WCAG](https://www.w3.org/WAI/intro/wcag)
 * [WebAIM](http://webaim.org/)
 * [UW Accessibility](http://www.washington.edu/accessibility/web/)
