@@ -29,3 +29,7 @@ Please feel free to contact the instructor [Eve Porcello](eve@moonhighway.com) w
 * [Vox Accessibility Checklist](http://accessibility.voxmedia.com/)
 * [WCAG Checklist](http://webaim.org/standards/wcag/checklist)
 * [HHS Checklists](https://www.hhs.gov/web/section-508/making-files-accessible/checklist/)
+
+## Class Resources
+
+* [Hawaii Tourism Video - For Captioning](https://www.youtube.com/watch?v=-R-5vA_xEYQ)
