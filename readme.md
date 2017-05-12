@@ -14,6 +14,7 @@ Please feel free to contact the instructor [Eve Porcello](eve@moonhighway.com) w
 * [Google Web Accessibility](https://developers.google.com/web/fundamentals/accessibility/)
 * [Microsoft Inclusive Design](https://www.microsoft.com/en-us/design/inclusive)
 * [A11Y Project](http://a11yproject.com/resources.html)
+* [Transcripts and Captions](http://webaim.org/techniques/captions/)
 
 ## Accessibility Tools
 
