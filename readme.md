@@ -1,7 +1,7 @@
 Accessibility Workshop
 =========
 
-These are all of the code files to be used in the Accessibility Workshop on May 8-9 in Helena, MT.
+These are all of the code files to be used in the Accessibility Workshop.
 
 Please feel free to contact the instructor [Eve Porcello](eve@moonhighway.com) with any questions.
 
